@@ -1,6 +1,4 @@
-![Ok](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
-
-###
+![pixel-japan](https://www.tokyoweekender.com/wp-content/uploads/2023/06/BEAM17-1-export.gif)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" width="52" alt="ruby logo" />
